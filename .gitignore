@@ -1,0 +1,11 @@
+# files I don't like
+*.csv
+*.xlsx
+*.pdf
+*.html
+
+# other files I don't like
+.Rhistory
+.Rdata
+*.Rdata
+.Rproj.user
